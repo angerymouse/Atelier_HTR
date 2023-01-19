@@ -11,7 +11,7 @@
  
  For the transcription: 
  
- <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"></a>.
+ <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"></a>
  
 ## Citation
  Martina Rizzello. _Atelier_ _HTR_. Université de Genève, 2023.
