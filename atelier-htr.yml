@@ -1,0 +1,23 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: Atelier_HTR
+url: https://github.com/angerymouse/Atelier_HTR
+authors: []
+institutions: []
+description: Repository for the atelier on HTR model training (Geneva, 19-20 January 2023)
+project-name: FoNDUE
+language:
+  - fra
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1884'
+  notAfter: '1884'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
