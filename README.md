@@ -2,7 +2,7 @@
 
 ## Project
 
- Repository for the atelier on HTR model training (Geneva, 19 - 20 January 2023)
+ Repository for the workshop on HTR model training (Geneva, 19 - 20 January 2023)
  
 ## Data
  [SIK-ISEA: Catalogues des Turnus, expositions de la Société suisse des beaux-arts (SSBA). Lausanne 1884.](https://www.sik-isea.ch/Portals/0/Content/Bibliothek/Digitale%20Best%C3%A4nde/1884_Lausanne.pdf)
